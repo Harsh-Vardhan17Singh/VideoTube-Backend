@@ -7,3 +7,5 @@ This file is built during my approach of building a application which is built f
 I am Building this because this can help me to handle multiple users on this application and on multiple users for different application . 
 
 This file contains structure of the file and all the essential base code for building 
+
+The quality of the codes can be improved by reading documents and all the file of the folder 
